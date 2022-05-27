@@ -1,0 +1,58 @@
+{
+  "chartdata": [
+    { "label": 1, "housecurrent": "150", "cpcurrent": "100" },
+    { "label": 2, "housecurrent": "250", "cpcurrent": "300" },
+    { "label": 3, "housecurrent": "450", "cpcurrent": "500" },
+    { "label": 4, "housecurrent": "350", "cpcurrent": "1020" },
+    { "label": 5, "housecurrent": "150", "cpcurrent": "1000" },
+    { "label": 6, "housecurrent": "650", "cpcurrent": "1010" },
+    { "label": 6, "housecurrent": "500", "cpcurrent": "900" }
+  ],
+  "chartdataToday": [
+    { "label": 1, "housecurrent": "150", "cpcurrent": "100" },
+    { "label": 2, "housecurrent": "250", "cpcurrent": "300" },
+    { "label": 3, "housecurrent": "450", "cpcurrent": "500" },
+    { "label": 4, "housecurrent": "350", "cpcurrent": "1020" },
+    { "label": 5, "housecurrent": "150", "cpcurrent": "1000" },
+    { "label": 6, "housecurrent": "650", "cpcurrent": "1010" },
+    { "label": 6, "housecurrent": "500", "cpcurrent": "900" }
+  ],
+  "chartdataweekly": [
+    { "label": "Mon", "housecurrent": "150", "cpcurrent": "100" },
+    { "label": "Tues", "housecurrent": "250", "cpcurrent": "300" },
+    { "label": "Wed", "housecurrent": "450", "cpcurrent": "500" },
+    { "label": "Thur", "housecurrent": "3150", "cpcurrent": "1020" },
+    { "label": "Fri", "housecurrent": "1450", "cpcurrent": "1000" },
+    { "label": "Sat", "housecurrent": "6350", "cpcurrent": "1010" },
+    { "label": "Sun", "housecurrent": "5000", "cpcurrent": "900" }
+  ],
+  "chartdatamonthly": [
+    { "label": "Jan", "housecurrent": "7150", "cpcurrent": "1008" },
+    { "label": "Feb", "housecurrent": "1250", "cpcurrent": "300" },
+    { "label": "Marz", "housecurrent": "450", "cpcurrent": "500" },
+    { "label": "April", "housecurrent": "350", "cpcurrent": "1020" },
+    { "label": "May", "housecurrent": "150", "cpcurrent": "1000" },
+    { "label": "Juni", "housecurrent": "650", "cpcurrent": "1010" },
+    { "label": "July", "housecurrent": "7500", "cpcurrent": "900" },
+    { "label": "Aug", "housecurrent": "150", "cpcurrent": "1000" },
+    { "label": "Sep", "housecurrent": "6950", "cpcurrent": "1010" },
+    { "label": "Oct", "housecurrent": "500", "cpcurrent": "9400" },
+    { "label": "Nov", "housecurrent": "150", "cpcurrent": "3000" },
+    { "label": "Dec", "housecurrent": "1650", "cpcurrent": "2010" }
+  ],
+  "stations": {
+    "data": [
+      {
+        "name": "TestCpo_S1",
+        "chargingGroupNames": ["TestCpo_S1_G1","TestCpo_S1_G2","TestCpo_S1_G3","TestCpo"],
+        "error": null
+      },
+      {
+        "name": "TestCpo_S2",
+        "chargingGroupNames": ["TestCpo_S2_G3", "TestCpo_S2_G1", "TestCpo_S2_G2"],
+        "error": null
+      }
+    ],
+    "error": null
+  }
+}
